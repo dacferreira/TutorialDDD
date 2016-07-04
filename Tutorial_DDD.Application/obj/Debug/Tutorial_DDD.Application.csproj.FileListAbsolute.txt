@@ -1,0 +1,5 @@
+C:\Users\diogo.ferreira\Documents\Pessoal\GitHub\TutorialDDD\Tutorial_DDD.Application\bin\Debug\Tutorial_DDD.Application.dll
+C:\Users\diogo.ferreira\Documents\Pessoal\GitHub\TutorialDDD\Tutorial_DDD.Application\bin\Debug\Tutorial_DDD.Application.pdb
+C:\Users\diogo.ferreira\Documents\Pessoal\GitHub\TutorialDDD\Tutorial_DDD.Application\obj\Debug\Tutorial_DDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\diogo.ferreira\Documents\Pessoal\GitHub\TutorialDDD\Tutorial_DDD.Application\obj\Debug\Tutorial_DDD.Application.dll
+C:\Users\diogo.ferreira\Documents\Pessoal\GitHub\TutorialDDD\Tutorial_DDD.Application\obj\Debug\Tutorial_DDD.Application.pdb
